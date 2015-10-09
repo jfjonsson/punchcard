@@ -1,0 +1,19 @@
+{
+  "name": "punchcard",
+  "version": "1.0.0",
+  "description": "The API will be used as a foundation for a new service called \"punchcard.com\", where companies and their users can register, and users can then issue a \"punch\". When they've collected enough punches (usually 10), they will get a discount at the company (perhaps a free meal at a restaurant after buying 10 meals, or 20% discount of their next purchase at some shop etc.).",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfjonsson/punchcard.git"
+  },
+  "author": "Jón Freysteinn Jónsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfjonsson/punchcard/issues"
+  },
+  "homepage": "https://github.com/jfjonsson/punchcard#readme"
+}
